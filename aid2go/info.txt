@@ -1,0 +1,11 @@
+my_project/
+├── notebooks/
+│   └── analysis_notebook.ipynb
+├── my_package/
+│   ├── __init__.py
+│   ├── utils.py
+│   ├── data_processing.py
+│   └── submodule/
+│       ├── __init__.py
+│       └── custom_functions.py
+└── setup.py (optional, if you plan to make it a package)
